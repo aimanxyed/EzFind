@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EzFind</string>
+    <string name="price"> <strike>$5000 </strike> </string>
+    <string name="price1"> <strike>$4000 </strike> </string>
+    <string name="price2"> <strike>R 150 000 00 </strike> </string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+
+</resources>

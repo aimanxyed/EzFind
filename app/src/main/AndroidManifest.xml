@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ezfind">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BidActivity"></activity>
+        <activity android:name=".HireActivity" />
+        <activity android:name=".BuyActivity" />
+        <activity android:name=".WhiteHouseInteriorsActivity" />
+        <activity android:name=".FindBusinessActivity" />
+        <activity android:name=".MessageReviewActivity" />
+        <activity android:name=".ReviewPromptActivity" />
+        <activity android:name=".RequestDetailsActivity" />
+        <activity android:name=".RequestsActivity" />
+        <activity android:name=".SpecialsListActivity" />
+        <activity android:name=".CataloguesListActivity" />
+        <activity android:name=".SpecialMapsActivity" />
+        <activity android:name=".SpecialActivity" />
+        <activity android:name=".CatalogueActivity" />
+        <activity android:name=".SubCategoryActivity" />
+        <activity android:name=".CategoriesListActivity" />
+        <activity android:name=".CheckoutDialog2Activity" />
+        <activity android:name=".CheckoutDialogActivity" />
+        <activity android:name=".Checkout2Activity" />
+        <activity android:name=".NavDrawActivity" />
+        <activity android:name=".FavouritesActivity" />
+        <activity android:name=".Business3Activity" />
+        <activity android:name=".BusinessActivity2" />
+        <activity android:name=".slide.IntroActivity" />
+        <activity android:name=".RatenReviewActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".Profile_pwActivity" />
+        <activity android:name=".BusinessActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CheckoutActivity" />
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MyReviewsActivity" />
+        <activity android:name=".Dialog_signin" />
+        <activity android:name=".RequestsItems2Activity" />
+        <activity android:name=".CartActivity" />
+        <activity android:name=".RequestsItemActivity" />
+        <activity android:name=".ProductActivity" />
+        <activity android:name=".MyRequests" />
+        <activity android:name=".DialogSignUp" />
+        <activity android:name=".HomePageActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".SignInActivity" />
+    </application>
+
+</manifest>

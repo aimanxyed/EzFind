@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/request"
+        android:title="Request an Item"
+        android:icon="@drawable/request"
+        />
+
+    <item
+        android:id="@+id/buy"
+        android:title="Buy"
+        android:icon="@drawable/ic_shopping_cart_red_24dp"/>
+
+    <item
+        android:id="@+id/bid"
+        android:title="Bid"
+        android:icon="@drawable/bid"
+       />
+    <item
+        android:id="@+id/hire"
+        android:title="Hire"
+        android:icon="@drawable/ic_watch_later_black_24dp"/>
+    <item
+        android:id="@+id/find"
+        android:title="Find Business"
+        android:icon="@drawable/ic_search_red_24dp"/>
+    <item
+        android:id="@+id/specials"
+        android:title="Specials"
+        android:icon="@drawable/ic_star_black_24dp"/>
+       <item
+        android:id="@+id/catalogue"
+        android:title="Catalogue"
+           android:icon="@drawable/catalogue"
+
+        />
+    <item
+        android:id="@+id/maps"
+        android:title="Special Maps"
+        android:icon="@drawable/ic_location_on_black_24dp"/>
+    <item
+        android:id="@+id/categories"
+        android:title="Categories"
+        android:icon="@drawable/ic_list_black_24dp" />
+    <item
+        android:id="@+id/favourites"
+        android:title="My Favourites"
+        android:icon="@drawable/ic_favorite_red_24dp" />
+    <item
+        android:id="@+id/reviews"
+        android:title="My Reviews"
+        android:icon="@drawable/reviews" />
+    <item
+        android:id="@+id/rate"
+        android:title="Rate the app"
+        android:icon="@drawable/rate" />
+    <item
+        android:id="@+id/share"
+        android:title="Share the app"
+        android:icon="@drawable/ic_share_red_24dp" />
+    <item
+        android:id="@+id/feedback"
+        android:title="Give Feedback"
+        android:icon="@drawable/feedback" />
+    <item
+        android:id="@+id/signout"
+        android:title="Sign Out"
+        android:icon="@drawable/signout" />
+
+</menu>
